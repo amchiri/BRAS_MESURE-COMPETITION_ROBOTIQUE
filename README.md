@@ -10,7 +10,7 @@ Système de bras robotique à 3 servomoteurs Herkulex pour la mesure et le bascu
 
 ## Démonstration
 
-<video controls src="https://github.com/amchiri/BRAS_MESURE-COMPETITION_ROBOTIQUE/blob/master/video_180_abdallah_diadie.mp4" title="https://github.com/amchiri/BRAS_MESURE-COMPETITION_ROBOTIQUE/raw/main/video_180_abdallah_diadie.mp4"></video>
+[<video controls src="https://github.com/amchiri/BRAS_MESURE-COMPETITION_ROBOTIQUE/blob/master/video_180_abdallah_diadie.mp4" title="https://github.com/amchiri/BRAS_MESURE-COMPETITION_ROBOTIQUE/raw/main/video_180_abdallah_diadie.mp4"></video>](https://github.com/user-attachments/assets/a26b9969-c911-46ff-beee-e5012b18148c)
 
 > **Note** : Si la vidéo ne s'affiche pas ci-dessus, vous pouvez la télécharger : [video_180_abdallah_diadie.mp4](https://github.com/amchiri/BRAS_MESURE-COMPETITION_ROBOTIQUE/blob/master/video_180_abdallah_diadie.mp4)
 
