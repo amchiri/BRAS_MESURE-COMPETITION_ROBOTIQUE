@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/MyPart",
+                "${workspaceFolder}/MyPart/mbed-os",
+                "${workspaceFolder}/MyPart/mbed-os/targets",
+                "${workspaceFolder}/MyPart/mbed-os/targets/TARGET_NXP",
+                "${workspaceFolder}/MyPart/mbed-os/targets/TARGET_NXP/TARGET_LPC176X",
+                "${workspaceFolder}/MyPart/mbed-os/targets/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768",
+                "${workspaceFolder}/MyPart/mbed-os/platform",
+                "${workspaceFolder}/MyPart/mbed-os/platform/include",
+                "${workspaceFolder}/MyPart/mbed-os/platform/include/platform",
+                "${workspaceFolder}/MyPart/mbed-os/drivers",
+                "${workspaceFolder}/MyPart/mbed-os/drivers/include",
+                "${workspaceFolder}/MyPart/mbed-os/drivers/include/drivers",
+                "${workspaceFolder}/MyPart/mbed-os/hal",
+                "${workspaceFolder}/MyPart/mbed-os/hal/include",
+                "${workspaceFolder}/MyPart/mbed-os/rtos",
+                "${workspaceFolder}/MyPart/mbed-os/rtos/include",
+                "${workspaceFolder}/MyPart/mbed-os/rtos/include/rtos",
+                "${workspaceFolder}/MyPart/mbed-os/cmsis",
+                "${workspaceFolder}/MyPart/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include",
+                "${workspaceFolder}/MyPart/mbed-os/cmsis/device/rtos/include",
+                "${workspaceFolder}/MyPart/mbed-os/connectivity",
+                "${workspaceFolder}/MyPart/mbed-os/storage",
+                "${workspaceFolder}/MyPart/mbed-os/features",
+                "${workspaceFolder}/MyPart/Herkulex_Library_2019",
+                "${workspaceFolder}/MyPart/include",
+                "${workspaceFolder}/MyPart/include/Herkulex_Library_2019"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "TARGET_LPC1768",
+                "TARGET_NXP",
+                "TARGET_LPC176X",
+                "TARGET_MBED_LPC1768",
+                "DEVICE_ANALOGIN=1",
+                "DEVICE_SERIAL=1",
+                "DEVICE_SERIAL_FC=1",
+                "DEVICE_INTERRUPTIN=1",
+                "DEVICE_PORTIN=1",
+                "DEVICE_PORTOUT=1",
+                "DEVICE_PORTINOUT=1",
+                "DEVICE_PWMOUT=1",
+                "MBED_BUILD_TIMESTAMP=1234567890",
+                "__MBED__=1"
+            ],
+            "windowsSdkVersion": "10.0.26100.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

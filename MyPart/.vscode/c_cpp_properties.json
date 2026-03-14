@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}",
+                "${workspaceFolder}/mbed-os",
+                "${workspaceFolder}/mbed-os/targets",
+                "${workspaceFolder}/mbed-os/targets/TARGET_NXP",
+                "${workspaceFolder}/mbed-os/targets/TARGET_NXP/TARGET_LPC176X",
+                "${workspaceFolder}/mbed-os/targets/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768",
+                "${workspaceFolder}/mbed-os/platform",
+                "${workspaceFolder}/mbed-os/platform/include",
+                "${workspaceFolder}/mbed-os/platform/include/platform",
+                "${workspaceFolder}/mbed-os/drivers",
+                "${workspaceFolder}/mbed-os/drivers/include",
+                "${workspaceFolder}/mbed-os/drivers/include/drivers",
+                "${workspaceFolder}/mbed-os/hal",
+                "${workspaceFolder}/mbed-os/hal/include",
+                "${workspaceFolder}/mbed-os/rtos",
+                "${workspaceFolder}/mbed-os/rtos/include",
+                "${workspaceFolder}/mbed-os/rtos/include/rtos",
+                "${workspaceFolder}/mbed-os/cmsis",
+                "${workspaceFolder}/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include",
+                "${workspaceFolder}/mbed-os/cmsis/device/rtos/include",
+                "${workspaceFolder}/mbed-os/connectivity",
+                "${workspaceFolder}/mbed-os/storage",
+                "${workspaceFolder}/mbed-os/features",
+                "${workspaceFolder}/Herkulex_Library_2019"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "TARGET_LPC1768",
+                "TARGET_NXP",
+                "TARGET_LPC176X",
+                "TARGET_MBED_LPC1768",
+                "DEVICE_ANALOGIN=1",
+                "DEVICE_SERIAL=1",
+                "DEVICE_SERIAL_FC=1",
+                "DEVICE_INTERRUPTIN=1",
+                "DEVICE_PORTIN=1",
+                "DEVICE_PORTOUT=1",
+                "DEVICE_PORTINOUT=1",
+                "DEVICE_PWMOUT=1",
+                "MBED_BUILD_TIMESTAMP=1234567890",
+                "__MBED__=1"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.30.30705/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

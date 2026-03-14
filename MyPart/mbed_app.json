@@ -1,0 +1,7 @@
+{
+    "target_overrides": {
+        "LPC1768": {
+            "target.printf_lib": "std"
+        }
+    }
+}

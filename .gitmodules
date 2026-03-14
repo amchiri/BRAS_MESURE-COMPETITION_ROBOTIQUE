@@ -1,0 +1,3 @@
+[submodule "MyPart/mbed-os"]
+	path = MyPart/mbed-os
+	url = https://github.com/ARMmbed/mbed-os.git
